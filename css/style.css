@@ -92,10 +92,10 @@ a {
 	-ms-transition: .25s;
 	transition: .25s;
 	outline: none !important;
-	color: #7e50ff;
+	color: #D8610E;
 }
 a:hover {
-	color: #7e50ff;
+	color:#D8610E;
 }
 a:focus {
 	text-decoration: none;
@@ -134,7 +134,7 @@ a:hover img {
 	vertical-align: middle;
 }
 .list-icons.purple > li > i {
-	color: #7e50ff;
+	color: #D8610E;
 }
 .bold-list {
 	font-weight: 500;
@@ -682,7 +682,7 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 /*==========  Search  ==========*/
 .search-overlay {
 	background: #D8610E;
-	background: rgba(124,77,255,.93);
+	background:  #D8610E;
 	-webkit-transform: scale(0);
 	-moz-transform: scale(0);
 	-ms-transform: scale(0);
@@ -1543,7 +1543,7 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 }
 .portfolio .item .overlay .background {
 	background: #D8610E;
-	background: rgba(124,77,255,.9);
+	background: rgba(216, 97, 14,0.5);
 	width: 100%;
 	height: 100%;
 	cursor: url('../images/cursor.png') 43 43, crosshair;
